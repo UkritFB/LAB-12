@@ -124,3 +124,4 @@ Project นี้จะโหลดภาพจากไฟล์ (ชนิด�
             Brush mybrush = new SolidBrush(Color.LightSkyBlue);
             e.Graphics.DrawString("UkRiT FoNgSoMBooN 57030252", new Font("Verdana", 10, FontStyle.Bold) , mybrush, 0, 0);
 ```
+![](https://github.com/UkritFB/LAB-12/blob/master/12.1.PNG?raw=true)
